@@ -1,7 +1,7 @@
 # dia-shapes-big-data
 
 
-[Dia diagram editor] (http://dia-installer.de/) shapes for building big data architectural diagrams.<br>
+[Dia diagram editor] (http://dia-installer.de/) shapes for building big data architecture diagrams.<br>
 This add-on provides shapes for most of the open-source big data/Hadoop ecosystem projects, based on the [icon-design]
 (http://hortonworks.com/blog/a-set-of-hadoop-related-icons/) recommendation of [Hortonworks] (http://hortonworks.com).
 
