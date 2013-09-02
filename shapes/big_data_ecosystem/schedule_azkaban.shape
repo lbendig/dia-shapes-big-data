@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Scheduler - Azkaban</name>
+  <icon>ico_azkb.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="0" y="0" width="7.9" height="5.7" xlink:href="schedule_azkaban.png"/>
+  </svg:svg>
+</shape>

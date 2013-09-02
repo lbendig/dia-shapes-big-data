@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Rectangular-4</name>
+  <icon>rect4_ico.png</icon>
+  <connections/>
+  <aspectratio type="free"/>
+  <svg:svg>
+    <svg:image x="0" y="0" width="17.95" height="6.85" xlink:href="rect4.png"/>
+  </svg:svg>
+</shape>

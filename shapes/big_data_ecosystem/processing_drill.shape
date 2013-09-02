@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Processing - Drill</name>
+  <icon>ico_drll.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="0" y="0" width="7.65" height="5.75" xlink:href="processing_drill.png"/>
+  </svg:svg>
+</shape>

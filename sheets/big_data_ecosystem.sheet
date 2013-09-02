@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>Big Data Ecosystem</name>
+<description>Big Data processing components</description>
+<contents>
+ <object name="Hadoop">
+  <description>Hadoop</description>
+ </object>
+ <object name="Datanode">
+  <description>Datanode</description>
+ </object>
+ <object name="Namenode">
+  <description>Namenode</description>
+ </object>
+ <object name="Spark">
+  <description>Spark</description>
+ </object>
+ <object name="Storage">
+  <description>Storage</description>
+ </object>
+ <object name="Storage - HDFS">
+  <description>HDFS / Storage</description>
+ </object>
+ <object name="SinkSource">
+  <description>Sink-Source</description>
+ </object>
+ <object name="SinkSource - Chukwa">
+  <description>Chukwa / Sink-Source</description>
+ </object>
+ <object name="SinkSource - Flume">
+  <description>Flume / Sink-Source</description>
+ </object>
+ <object name="SinkSource - Sqoop">
+  <description>Sqoop / Sink-Source</description>
+ </object>
+ <object name="Processing">
+  <description>Processing unit</description>
+ </object>
+ <object name="Processing - Cascading">
+  <description>Cascading / Processing unit</description>
+ </object>
+ <object name="Processing - Drill">
+  <description>Drill / Processing unit</description>
+ </object>
+ <object name="Processing - Hive">
+  <description>Hive / Processing unit</description>
+ </object>
+ <object name="Processing - Impala">
+  <description>Impala / Processing unit</description>
+ </object>
+ <object name="Processing - Pig">
+  <description>Pig / Processing unit</description>
+ </object>
+ <object name="Computing">
+  <description>Computing unit</description>
+ </object>
+ <object name="Computing - Giraph">
+  <description>Giraph / Computing unit</description>
+ </object>
+ <object name="Computing - Hama">
+  <description>Hama / Computing unit</description>
+ </object>
+ <object name="Computing - Mahout">
+  <description>Mahout / Computing unit</description>
+ </object>
+  <object name="Store">
+  <description>Store</description>
+ </object>
+ <object name="Store - Cassandra">
+  <description>Cassandra / Store</description>
+ </object>
+ <object name="Store - CouchDB">
+  <description>CouchDB  / Store</description>
+ </object>
+ <object name="Store - HBase">
+  <description>HBase / Store</description>
+ </object>
+ <object name="Store - Memcached">
+  <description>Memcached / Store</description>
+ </object>
+ <object name="Store - MongoDB">
+  <description>MongoDB / Store</description>
+ </object>
+ <object name="Store - Redis">
+  <description>Redis / Store</description>
+ </object>
+ <object name="Store - Riak">
+  <description>Riak / Store</description>
+ </object>
+ <object name="Stream">
+  <description>Streaming</description>
+ </object>
+  <object name="Stream - Storm">
+  <description>Strom / Store</description>
+ </object>
+ <object name="Stream - S4">
+  <description>S4 / Streaming</description>
+ </object>
+ <object name="Resource">
+  <description>Resource Mgmt.</description>
+ </object>
+ <object name="Resource - Mesos">
+  <description>Mesos / Resource Mgmt.</description>
+ </object>
+ <object name="Resource - Yarn">
+  <description>YARN / Resource Mgmt.</description>
+ </object>
+ <object name="Scheduler">
+  <description>Scheduler</description>
+ </object>
+ <object name="Scheduler - Azkaban">
+  <description>Azkaban / Scheduler</description>
+ </object>
+ <object name="Scheduler - Oozie">
+  <description>Oozie / Scheduler</description>
+ </object>
+ <object name="Monitor">
+  <description>Monitor,UI</description>
+ </object>
+ <object name="Monitor - Ambari">
+  <description>Ambari / Monitor,UI</description>
+ </object>
+ <object name="Monitor - Hue">
+  <description>Hue / Monitor,UI</description>
+ </object>
+ <object name="Coordination">
+  <description>Coordination</description>
+ </object>
+ <object name="Coordination - Akka">
+  <description>Akka / Coordination</description>
+ </object>
+ <object name="Coordination - ZooKeeper">
+  <description>ZooKeeper / Coordination</description>
+ </object>
+ <object name="Pack,Test">
+  <description>Pack,Test</description>
+ </object>
+ <object name="Pack,Test - BigTop">
+  <description>BigTop / Pack,Test</description>
+ </object>
+ <object name="Cloud">
+  <description>Cloud</description>
+ </object>
+ <object name="Cloud - Whirr">
+  <description>Whirr / Cloud</description>
+ </object>
+ <object name="Queue">
+  <description>Queue</description>
+ </object>
+ <object name="Queue - ActiveMQ">
+  <description>ActiveMQ / Queue</description>
+ </object>
+ <object name="Queue - Kafka">
+  <description>Kafka / Queue</description>
+ </object>
+ <object name="Queue - Kestrel">
+  <description>Kestrel / Queue</description>
+ </object>
+ <object name="Queue - RabbitMQ">
+  <description>RabbitMQ / Queue</description>
+ </object>
+ <object name="Data source">
+  <description>Data source</description>
+ </object>
+ <object name="Data target">
+  <description>Data target</description>
+ </object>
+ <object name="SerDe">
+  <description>SerDe</description>
+ </object>
+ <object name="SerDe - Avro">
+  <description>Avro / SerDe</description>
+ </object>
+ <object name="Crawler">
+  <description>Crawler</description>
+ </object>
+ <object name="Crawler - Nutch">
+  <description>Nutch / Crawler</description>
+ </object>
+ <object name="Search">
+  <description>Search engine</description>
+ </object>
+ <object name="Search - Lucene">
+  <description>Lucene / Search engine</description>
+ </object>
+ <object name="Search - Solr">
+  <description>Solr / Search engine</description>
+ </object>
+ <object name="Rectangular-1">
+  <description>Box-1</description>
+ </object>
+ <object name="Rectangular-2">
+  <description>Box-2</description>
+ </object>
+ <object name="Rectangular-3">
+  <description>Box-3</description>
+ </object>
+ <object name="Rectangular-4">
+  <description>Box-4</description>
+ </object>
+</contents></sheet>
