@@ -20,9 +20,9 @@ $DIA_HOME (~/.dia/) or just grab and execute [install.sh] (https://github.com/lb
 ## Examples
 
 ### Example 1
-[Quantifind] (http://quantifind.com) stack, taken from [here] (https://www.youtube.com/watch?v=DI81yppHI6w)
+[Quantifind] (http://quantifind.com) stack, taken from [here] (https://www.youtube.com/watch?v=DI81yppHI6w) .
 ![Example-1](https://github.com/lbendig/dia-shapes-big-data/raw/master/docs/img/example1.png)
 
 
 ### Example 2
-![Example-2](https://github.com/lbendig/dia-shapes-big-data/raw/master/docs/img/example1.png)
+![Example-2](https://github.com/lbendig/dia-shapes-big-data/raw/master/docs/img/example2.png)
