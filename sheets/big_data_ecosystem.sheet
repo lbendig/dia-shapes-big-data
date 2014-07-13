@@ -91,7 +91,7 @@
   <description>Streaming</description>
  </object>
   <object name="Stream - Storm">
-  <description>Strom / Store</description>
+  <description>Storm / Store</description>
  </object>
  <object name="Stream - S4">
   <description>S4 / Streaming</description>
